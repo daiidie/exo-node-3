@@ -1,0 +1,14 @@
+{
+  "name": "exo-node-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daiidie/exo-node-3.git",
+  "author": "daiidie <delavegae46@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.5.3"
+  }
+}
