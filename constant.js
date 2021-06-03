@@ -1,6 +1,5 @@
-
-exports.ADD_OP = '+'
-exports.SUB_OP = '-'
-exports.MUL_OP = '*'
-exports.DIV_OP = '/'
-exports.MOD_OP = '%'
+exports.ADD_OP = 'add'
+exports.SUB_OP = 'sub'
+exports.MUL_OP = 'mul'
+exports.DIV_OP = 'div'
+exports.MOD_OP = 'mod'
